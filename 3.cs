@@ -5,9 +5,7 @@ int measure = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите массу: ");
 double mass = Convert.ToDouble(Console.ReadLine());
-
-// Подготовим переменную для вывода результата в киллограммах
-double result = 0;
+var result;
 
 switch (measure)
 {
