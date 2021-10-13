@@ -15,5 +15,6 @@ foreach (int i in input)
     }
 }
 //random1
+//new
 // Пишем результат - сумму чисел, кратных 3
 System.Console.Write("{0} ", result);
